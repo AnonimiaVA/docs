@@ -1,6 +1,6 @@
 ---
 title: Covid Update 1
-description: "The covid shizzle thing... "
+description: "The covid shizzle thing... "v
 lead: Some covid details are getting out.
 date: 2021-04-27T09:19:42.000+01:00
 lastmod: 2021-04-27T09:19:42.000+01:00
